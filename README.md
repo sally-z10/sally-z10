@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...
 -
 <img src="(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-)" saly.zeineldeen@ejust.edu.eg/>
+)"/> saly.zeineldeen@ejust.edu.eg
 
 <!---
 - 💞️ I’m looking to collaborate on ...
