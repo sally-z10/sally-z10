@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cybersecurity and Web Development
 - 🌱 I’m currently learning ...
 
-![Gmail](https://img.shields.io/badge/saly.zeineldeen@ejust.edu.eg-D14836?style=flat-square&logo=gmail&logoColor=white)
+![Gmail](https://img.shields.io/badge/saly.zeineldeen@ejust.edu.eg-D14836?style=flat&logo=gmail&logoColor=white)
 
 <!---
 - 💞️ I’m looking to collaborate on ...
