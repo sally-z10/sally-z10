@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @sally-z10
 - 👀 I’m interested in Cybersecurity and Web Development
 - 🌱 I’m currently learning ...
-<img src="[{BadgeURLHere}](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+-
+<img src="(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )" saly.zeineldeen@ejust.edu.eg/>
 
 <!---
