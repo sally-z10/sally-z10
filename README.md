@@ -1,3 +1,4 @@
+こんにちは～🎈🤝
 - 👋 Hi, I’m @sally-z10
 - 👀 I’m interested in Cybersecurity and Web Development
 - 🌱 I’m currently learning ...
