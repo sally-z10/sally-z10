@@ -1,6 +1,6 @@
 こんにちは～🎈🤝
 - 👋 Hi, I’m @sally-z10
-- 👀 I’m interested in Cybersecurity and Web Development
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning ...
 
 ![Gmail](https://img.shields.io/badge/saly.zeineldeen@ejust.edu.eg-D14836?style=flat&logo=gmail&logoColor=white)
