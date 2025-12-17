@@ -1,13 +1,13 @@
 こんにちは～🎈🤝
 - 👋 Hi, I’m @sally-z10
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ...
-
+- 👀 I’m interested in UX/UI, Web Development, and Embedded Systems
+- 🌱 I’m currently learning about RISC-V architecture
+- 📫 How to reach me? Email or Linkedin
 ![Gmail](https://img.shields.io/badge/saly.zeineldeen@ejust.edu.eg-D14836?style=flat&logo=gmail&logoColor=white)
 
 <!---
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --->
